@@ -1,5 +1,5 @@
 我准备保存在github上的文本文件
-通过nano修改的句子
+main通过nano修改的句子
 在小米电脑修改后上传github
 创建分支branch-dev后修改增加的内容
 命令git branch dev
